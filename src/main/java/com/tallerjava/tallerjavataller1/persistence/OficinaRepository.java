@@ -13,6 +13,7 @@ import java.util.Optional;
 
 @Repository
 public class OficinaRepository implements OfficeRepository{
+    //Con el implements llamamos nuestros 02 metodos de la capa de domain-repository que brindamos en nuestra API REST
 
     @Autowired
     private OficinaCrudRepository OficinaCrudRepository;
