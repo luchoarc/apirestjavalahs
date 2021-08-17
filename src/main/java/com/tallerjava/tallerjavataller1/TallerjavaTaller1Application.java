@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //3. http://localhost:9000/swagger-ui.html
 //4. https://apirestoacarc.herokuapp.com/offices/alls
 //5. https://apirestoacarc.herokuapp.com/offices/10
-
+//6. https://apirestoacarc.herokuapp.com/swagger-ui.html
 
 //Para ajecutar el .jar directo se ejecuta el siguiente comando desde consola de windows cmd
 //D:\Documents\JS y JAVA\JAVA\tallerjava-taller1\build\libs> java -jar tallerjava-taller1-1.0.0.jar
